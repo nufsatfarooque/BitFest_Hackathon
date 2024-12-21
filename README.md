@@ -1,4 +1,5 @@
 # BitFest_Hackathon
+# Challenge 1
 # Banglish to Bengali Translator
 
 This repository contains `challenge1.ipynb`, a notebook that trains a Banglish-to-Bengali transliteration model using Facebook mBART. The model is fine-tuned on Banglish-Bengali data for accurate transliteration.
@@ -52,6 +53,4 @@ The trained model is available on Hugging Face:
 - Facebook AI for mBART.
 - Dataset: `SKNahin/bengali-transliteration-data`.
 
----
-Contributions and issues are welcome!
 
