@@ -18,7 +18,7 @@ The Challenge1 Folder in the repository contains `challenge1.ipynb`, a notebook 
  
 
 ## Usage
-1. Open and run `challenge1.ipynb` in Jupyter Notebook to train the model.
+1. Open and run `Challenge1.ipynb` in Jupyter Notebook to train the model.
 2. The trained model is saved in `./final_model`.
 
 ### Example Translation
