@@ -1,0 +1,12 @@
+Name: Pancakes
+Ingredients: Flour, Eggs, Milk, Sugar
+Taste: Sweet
+Cuisine Type: American
+Preparation Time: 15 minutes
+Instructions: Mix all ingredients and cook on a hot griddle.
+Name: Spaghetti
+Ingredients: Pasta, Tomato Sauce, Garlic
+Taste: Savory
+Cuisine Type: Italian
+Preparation Time: 20 minutes
+Instructions: Boil pasta and mix with sauce.
