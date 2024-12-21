@@ -2,7 +2,7 @@
 # Challenge 1
 # Banglish to Bengali Translator
 
-This repository contains `challenge1.ipynb`, a notebook that trains a Banglish-to-Bengali transliteration model using Facebook mBART. The model is fine-tuned on Banglish-Bengali data for accurate transliteration.
+The Challenge1 Folder in the repository contains `challenge1.ipynb`, a notebook that trains a Banglish-to-Bengali transliteration model using Facebook mBART. The model is fine-tuned on Banglish-Bengali data for accurate transliteration.
 
 ## Features
 - Preprocesses Banglish text.
@@ -14,14 +14,8 @@ This repository contains `challenge1.ipynb`, a notebook that trains a Banglish-t
 
 ## Installation
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your_username/banglish-to-bengali-translator.git
-   cd banglish-to-bengali-translator
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
+ 2. Install dependencies:
+ 
 
 ## Usage
 1. Open and run `challenge1.ipynb` in Jupyter Notebook to train the model.
